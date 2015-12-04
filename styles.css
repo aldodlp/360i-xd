@@ -203,8 +203,8 @@ html, body {
 	display: inline-block;
 	overflow: hidden;
 	width: 0;
-	padding-left: 100px;
-	height: 100px;
+	padding-left: 35px;
+	height: 35px;
 	font-size: 0px;
 	background: url(images/360i-logo.svg);
 	background-size: 100%;
