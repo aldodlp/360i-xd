@@ -145,9 +145,14 @@ html, body {
   margin: 8px 0;
 }
 
-.mdl-demo section .section__circle-container img {
-  width: 100%;
-  height: 100%;
+.mdl-demo section .section__circle-container > .frank {
+  background: url('images/frank.png') no-repeat;
+  background-size: 100%;
+}
+
+.mdl-demo section .section__circle-container > .aldo {
+  background: url('images/aldo.png') no-repeat;
+  background-size: 100%;
 }
 
 .mdl-demo section.section--footer .section__circle--big {
