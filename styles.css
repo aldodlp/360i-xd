@@ -146,12 +146,12 @@ html, body {
 }
 
 .mdl-demo section .section__circle-container > .frank {
-  background: url('images/frank.png') no-repeat;
+  background: url('images/frank.png') no-repeat transparent;
   background-size: 100%;
 }
 
 .mdl-demo section .section__circle-container > .aldo {
-  background: url('images/aldo.png') no-repeat;
+  background: url('images/aldo.png') no-repeat transparent;
   background-size: 100%;
 }
 
