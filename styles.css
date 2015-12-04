@@ -144,6 +144,12 @@ html, body {
   border-radius: 32px;
   margin: 8px 0;
 }
+
+.mdl-demo section .section__circle-container img {
+  width: 100%;
+  height: 100%;
+}
+
 .mdl-demo section.section--footer .section__circle--big {
   width: 100px;
   height: 100px;
