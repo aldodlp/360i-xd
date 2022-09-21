@@ -119,7 +119,7 @@ body {
   animation-iteration-count: infinite;
   animation-direction: alternate;
   display:flex; flex-direction:column; justify-content:center;
-  min-height:90vh;
+  min-height:88vh;
 }
 
 .main {
