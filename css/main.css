@@ -115,7 +115,7 @@ a {
 
 body {
   animation-name: backgroundColorPalette;
-  animation-duration: 16s;
+  animation-duration: 13s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   display:flex; flex-direction:column; justify-content:center;
