@@ -312,6 +312,10 @@ body {
   #main-content {
     margin: 40px auto;
   }
+
+  .outline-link {
+    -webkit-text-stroke-width: 1.2px;
+  }
 }
 
 @media print,
