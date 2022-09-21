@@ -89,7 +89,6 @@ textarea {
 
 html {
   font-family: 'Poppins', serif;
-  font-size: 3em;
 }
 
 a {
@@ -125,7 +124,9 @@ body {
 
 .main {
   margin: auto;
-  max-width: 64vw;
+  width: 90vw;
+  max-width: 980px;
+  margin: 24px auto;
 }
 
 #logo {
@@ -141,10 +142,11 @@ body {
 #main-content {
   display: block;
   position: relative;
-  margin: 1.8em auto;
+  margin: 48px auto;
 }
 
 #main-content p {
+  font-size: 1em;
   font-weight: 800;
   letter-spacing: -0.01em;
 }
@@ -190,7 +192,6 @@ body {
 #social-links li:hover {
   opacity: .6;
 }
-
 
 
 /* ==========================================================================
@@ -283,6 +284,18 @@ body {
 
 @media only screen and (min-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
+  #main-content {
+    font-size: 3.2em;
+  }
+  
+  .main {
+    width: 90vw;
+    margin: 40px auto;
+  }
+  
+  #main-content {
+    margin: 88px auto;
+  }
 }
 
 @media print,
