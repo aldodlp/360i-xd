@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aldo De La Paz -- CD, Product Designer -- @aldodlp
 
 # THANKS
 
-    <name>
+    Mom
 
 # TECHNOLOGY COLOPHON
 
